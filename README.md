@@ -42,10 +42,10 @@
 </p>
 
 <h2> ✅ N O T E - B E F O R E - U S I N G !!- EN</h2>
-
+<ul>
      ➤ Add Your SESSION ID To Your <code>config.js</code>
     ➤ Also Add Your Github Auth Token (without gph_) And Github User Name To <code>config.js</code>
-
+</ul>
 
 <hr>
 <h2>✅ N O T E - B E F O R E - U S I N G !! -SI</h2>
