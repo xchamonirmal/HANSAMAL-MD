@@ -400,7 +400,7 @@ l(e)
 })
 
 cmd({
-  pattern: "adminmenu",
+  pattern: "aimn",
   react: "🛡️",
   dontAddCommandList: true,
   filename: __filename
@@ -409,10 +409,10 @@ async(conn, mek, m,{from, prefix, l, quoted, body, isCmd, command, args, q, isGr
 try{
 let menuc = `*╭─「ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ」*
 *│╭───────────────╮*
-*│   ♘   𝙰𝙳𝙼𝙸𝙽  𝙼𝙴𝙽𝚄   👨‍🎓   ▎*
+*│   ♘   𝙰𝙸  𝙼𝙴𝙽𝚄   🔱   ▎*
 *├────────────────╯*\n\n`
 for (let i=0;i<commands.length;i++) { 
-if(commands[i].category === 'admin'){
+if(commands[i].category === 'ai'){
 if(!commands[i].dontAddCommandList){
 menuc += `\n│❄ *Command:* ${commands[i].pattern}\n
 │👨‍💻 *Use:* ${commands[i].use}\n\n\n`
