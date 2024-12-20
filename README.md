@@ -78,7 +78,7 @@ HANSAMAL MD DEVELOPER
 
 | <a href="https://github.com/HANSAMAL-OFFICIAL"><img src="https://i.postimg.cc/t4pnVYd8/IMG-20241217-WA0017-1.jpg" width=90 height=90></a>
 |---|
-| **[IMALKA HANSAMAL](https://github.com/HANSAMAL-OFFICIAL)**</br>Founder & Developer</br> |
+| **[IMALKA HANSAMAL](https://github.com/HANSAMAL-OFFICIAL)**</br>Create Whatsapp Bot</br> |
 <hr>
 
 <b>COPY WORKFLOW CODE</b></br>
