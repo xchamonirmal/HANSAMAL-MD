@@ -41,10 +41,22 @@
   </p>
 </p>
 
-<hr>
-<b>GET SESSION ID VIA PAIR CODE 01</b>
+<h2> ✅ N O T E - B E F O R E - U S I N G !!- EN</h2>
 
-<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+     ➤ Add Your SESSION ID To Your <code>config.js</code>
+    ➤ Also Add Your Github Auth Token (without gph_) And Github User Name To <code>config.js</code>
+
+
+<hr>
+<h2>✅ N O T E - B E F O R E - U S I N G !! -SI</h2>
+➤ </code>Fork</code> / Use This </code>Template</code> button එක Click කරන්න.
+
+➤ ඔබේ <code>SESSION ID</code>, Github Auth Token(gph_ නැතිව) සහ Github User Name: <code>config.js</code> එකට එක් කරන්න.
+</hr>
+<hr>
+<b>GET SESSION ID VIA PAIR CODE</b>
+
+<a href='hansamal-official-production-09e7.up.railway.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
@@ -59,11 +71,14 @@
    
 [![HANSAMAL](https://img.shields.io/badge/HANSAMAL_MD_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=GREEN&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-VAJIRA MD DEVELOPER TEAM
 
-| <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/aqi35mmg.jpg" width=90 height=90></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+HANSAMAL MD DEVELOPER
+
+| <a href="https://github.com/HANSAMAL-OFFICIAL"><img src="https://i.postimg.cc/t4pnVYd8/IMG-20241217-WA0017-1.jpg" width=90 height=90></a>
 |---|
-| **[Vajira T.D.D](https://github.com/VajiraTech)**</br>Founder & Developer</br> |
+| **[IMALKA HANSAMAL](https://github.com/HANSAMAL-OFFICIAL)**</br>Founder & Developer</br> |
 <hr>
 
 <b>COPY WORKFLOW CODE</b></br>
@@ -110,3 +125,5 @@ jobs:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=MADE+BY+IMALKA-HANSAMAL." alt="Typing SVG" /></a>
 
  
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
