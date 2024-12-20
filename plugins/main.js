@@ -97,19 +97,19 @@ else if(os.hostname().length == 8) hostname = 'koyeb'
 else hostname = os.hostname()
 let monspace ='```'
 const buttons = [
-{buttonId: `${prefix}downmenu`, buttonText: {displayText: 'DOWNLOAD COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}searchmenu`, buttonText: {displayText: 'SEARCH COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}convertmenu`, buttonText: {displayText: 'CONVERT COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}logomenu`, buttonText: {displayText: 'LOGO COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}othermenu`, buttonText: {displayText: 'OTHER COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}groupmenu`, buttonText: {displayText: 'GROUP COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}newsmenu`, buttonText: {displayText: 'NEWS COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}ownermenu`, buttonText: {displayText: 'OWNER COMMANDS MENU'}, type: 1},
-{buttonId: `${prefix}adminmenu`, buttonText: {displayText: 'ADMIN COMMANDS MENU'}, type: 1},
+{buttonId: `${prefix}aimn`, buttonText: {displayText: 'AI MENU'}, type: 1},
+{buttonId: `${prefix}searchmenu`, buttonText: {displayText: 'SEARCH MENU'}, type: 1},
+{buttonId: `${prefix}convertmenu`, buttonText: {displayText: 'CONVERT MENU'}, type: 1},
+{buttonId: `${prefix}logomenu`, buttonText: {displayText: 'LOGO MENU'}, type: 1},
+{buttonId: `${prefix}othermenu`, buttonText: {displayText: 'OTHER MENU'}, type: 1},
+{buttonId: `${prefix}groupmenu`, buttonText: {displayText: 'GROUP MENU'}, type: 1},
+{buttonId: `${prefix}newsmenu`, buttonText: {displayText: 'NEWS MENU'}, type: 1},
+{buttonId: `${prefix}ownermenu`, buttonText: {displayText: 'OWNER MENU'}, type: 1},
+{buttonId: `${prefix}downmenu`, buttonText: {displayText: 'DOWNLOAD MENU'}, type: 1},
 {buttonId: `${prefix}mnmenu`, buttonText: {displayText: 'NEW COMMANDS MENU'}, type: 1}
 ]
 const buttonMessage = {
-  image: {url: config.LOGO},
+  image: {url: 'https://i.postimg.cc/sx5NtgDj/IMG-20241219-WA0027.jpg'},
   caption: `${monspace}👋 Hello ${pushname}${monspace}
 
 *👾 ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ commands menu...*
