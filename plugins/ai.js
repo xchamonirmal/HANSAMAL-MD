@@ -79,9 +79,9 @@ cmd({
 async(conn, mek, m,{from, l, prefix, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 if(!q) return reply('Need a keyword')
-var res = (await fetchJson('https://api-pink-venom.vercel.app/api/blackboxAIChat?message=' + q)).data
+var res = (await fetchJson('https://www.dark-yasiya-api.site/ai/chatgpt?q=' + q)).data
 
-return await reply(res.response)
+return await reply(res.result)
 } catch (e) {
 reply('Unable to generate')
 l(e)
