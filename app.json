@@ -1,0 +1,37 @@
+{
+  "name": "HANSAMAL-MD",
+  "description": "HANSAMAL-MD IS A SIMPLE WHATSAPP BOT ❤️",
+  "logo": "https://i.postimg.cc/t4pnVYd8/IMG-20241217-WA0017-1.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "hansamal-md"],
+  "success_url": "/",
+
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": false
+    },  
+  "GITHUB_USER_NAME": {
+      "description": "Put the your github user name.",
+      "required": false
+    },  
+
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+  
+  
+}
