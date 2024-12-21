@@ -13,11 +13,11 @@
 
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": false
+      "required": true
     },  
   "GITHUB_USER_NAME": {
       "description": "Put the your github user name.",
-      "required": false
+      "required": true
     },  
 
     "GITHUB_AUTH_TOKEN": {
