@@ -1,4 +1,4 @@
-<div align="center">
+.<div align="center">
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝙃𝘼𝙉𝙎𝘼𝙈𝘼𝙇+𝙈𝘿+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝘽𝙊𝙏)](https://git.io/typing-svg)
